@@ -1,0 +1,1 @@
+INSERT INTO User(id,username,name,age,balance) VALUES(1,'000','zxn',20,100.00);
